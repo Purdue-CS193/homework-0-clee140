@@ -1,3 +1,11 @@
+# Christopher Lee's First CS193 Homework
+
+- Learn about important skills that will help in the future
+- Learn how to use Github
+- Make new friends
+- Learn how to navigate terminal
+- Discover new tools
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -11,13 +19,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Christopher Lee's First CS193 Homework
 
-- Learn about important skills that will help in the future
-- Learn how to use Github
-- Make new friends
-- Learn how to navigate terminal
-- Discover new tools
 
 
 **Bold** and _Italic_ and `Code` text
